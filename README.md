@@ -9,7 +9,7 @@ It is implementation of project in Artificial Intelligence course.
 * First Part 
    * Exporting conclusions with **resolution** for propositional logic
    * _Example_ 
-         1. (!p21 V b11 )^(b11 V p12 V p21)^(!p12 V b11)^(b11))
+        1. (!p21 V b11 )^(b11 V p12 V p21)^(!p12 V b11)^(b11))
     
 
 * Second Part 
@@ -36,3 +36,7 @@ It is implementation of project in Artificial Intelligence course.
        7.  American(West)
        8.  Enemy(Nono,America)
 
+# Run Instractions
+
+ * Run the Main Class
+ * We have made a menu asking the user which of the three methods he wants to use and depending on his answer we call this  method.
